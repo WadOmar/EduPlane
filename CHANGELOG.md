@@ -8,12 +8,13 @@ Tout les changements de ce projet seront documentés dans ce fichier.
 ### Changed
 
 
-## [0.0.0] - 24-01-2019
+## [0.0.0] - 14-03-2019
 ### Added
-
+Fonction missile
+Ajout d'un lieu pour les compteur
 ### Changed
-
-
+Fonction dessiner 
+Fonction clavier et souris
 ### Removed
-
+La darrone de Omar
 
