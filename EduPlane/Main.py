@@ -128,7 +128,7 @@ def outOfFuel():
 
 		bouton("Plus de carburant ?",25,450,300,100,green,brightGreen,shopFuel)
 		bouton("Quit",675,450,300,100,red,brightRed,quitterJeu)
-		bouton("RÃ©essayer",350,450,300,100,orange,brightOrange,game_loop)
+		bouton("Reessayer",350,450,300,100,orange,brightOrange,game_loop)
 
 		pygame.display.update()
 		clock.tick(15)
